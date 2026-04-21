@@ -1,0 +1,38 @@
+commit 57bb02aefc760052ac92cbb4d210be94ef292cc8
+Author: PU <160157089+103PU@users.noreply.github.com>
+Date:   Thu Apr 9 08:36:19 2026 +0700
+
+    Revert "Refactor: Reorder operator keys"
+    
+    This reverts commit 2bd15e55a8d45391120a93b3fd53daf23d1a9da6.
+
+commit 452efae8dde8602e032400b800e44812355556bf
+Author: PU <160157089+103PU@users.noreply.github.com>
+Date:   Thu Apr 9 08:34:32 2026 +0700
+
+    Build: Add .gitignore to ignore log files
+
+commit e540863b9234bfad2a018652c7017c0f4003066d
+Merge: 2bd15e5 23ecfda
+Author: PU <160157089+103PU@users.noreply.github.com>
+Date:   Thu Apr 9 08:30:07 2026 +0700
+
+    Merge branch 'feature-sqrt'
+
+commit 2bd15e55a8d45391120a93b3fd53daf23d1a9da6
+Author: PU <160157089+103PU@users.noreply.github.com>
+Date:   Thu Apr 9 08:27:59 2026 +0700
+
+    Refactor: Reorder operator keys
+
+commit 23ecfdaf79fde983937f87d7d62c61d9cf859077
+Author: PU <160157089+103PU@users.noreply.github.com>
+Date:   Thu Apr 9 08:26:26 2026 +0700
+
+    Feature: Add square root functionality
+
+commit 46de85ff4bae02993a77145b91080e4b80dc9d05
+Author: PU <160157089+103PU@users.noreply.github.com>
+Date:   Thu Apr 9 08:22:52 2026 +0700
+
+    Initial commit: Add base calculator project files
